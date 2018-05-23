@@ -1,1 +1,3 @@
-not a new  file
+
+not a newly created  file
+THis is a newly edited file
